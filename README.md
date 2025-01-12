@@ -1,0 +1,1 @@
+This repository demonstrates a common error when working with Firebase and its asynchronous nature.  The bug involves attempting to access data from a Firestore document snapshot before the data has finished loading. The solution showcases proper use of promises or async/await to handle the asynchronous nature of Firebase operations, preventing errors and ensuring data integrity.
